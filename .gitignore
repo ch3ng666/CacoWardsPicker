@@ -3,6 +3,5 @@
 /dist
 /.venv
 /main.spec
-/1994-2023.txt
 /1994-2023 seg.txt
 /.gitignore
