@@ -1,9 +1,9 @@
-1994 - Crossing Acheron - https://www.doomworld.com/idgames/?id=2558 - 0
-1994 - Aliens TC - https://www.doomworld.com/idgames/?id=1040 - 1
-1994 - Doomsday of UAC - https://www.doomworld.com/idgames/?id=420 - 0
-1994 - Galaxia - https://www.doomworld.com/idgames/?id=627 - 0
+1994 - Crossing Acheron - https://www.doomworld.com/idgames/?id=2558 - 1
+1994 - Aliens TC - https://www.doomworld.com/idgames/?id=1040 - 0
+1994 - Doomsday of UAC - https://www.doomworld.com/idgames/?id=420 - 1
+1994 - Galaxia - https://www.doomworld.com/idgames/?id=627 - 1
 1994 - Serenity - https://www.doomworld.com/idgames/?id=1033 - 0
-1994 - Eternity - https://www.doomworld.com/idgames/?id=1046 - 0
+1994 - Eternity - https://www.doomworld.com/idgames/?id=1046 - 1
 1994 - Trinity College - https://www.doomworld.com/idgames/?id=791 - 1
 1994 - Return to Phobos - https://www.doomworld.com/idgames/?id=690 - 0
 1994 - Slaughter Until Death - https://www.doomworld.com/idgames/?id=461 - 1
